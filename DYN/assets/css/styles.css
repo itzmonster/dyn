@@ -1,0 +1,53 @@
+.btn-custom {
+  border-radius:5px;
+  padding:10px 30px;
+  border:solid 0px;
+  transition:all 0.5s;
+  min-width:150px;
+}
+
+.btn-black {
+  background-image:-moz-linear-gradient( 127deg, rgb(22,25,30) 0%, rgb(30,31,35) 100%);
+  background-image:-webkit-linear-gradient( 127deg, rgb(22,25,30) 0%, rgb(30,31,35) 100%);
+  background-image:-ms-linear-gradient( 127deg, rgb(22,25,30) 0%, rgb(30,31,35) 100%);
+}
+
+.btn-blue {
+  background-image:-moz-linear-gradient( 127deg, rgb(76,92,255) 0%, rgb(86,151,251) 100%);
+  background-image:-webkit-linear-gradient( 127deg, rgb(76,92,255) 0%, rgb(86,151,251) 100%);
+  background-image:-ms-linear-gradient( 127deg, rgb(76,92,255) 0%, rgb(86,151,251) 100%);
+}
+
+btn-margin-right {
+  margin-right:30px;
+}
+
+.btn-margin-right {
+  margin-right:30px;
+}
+
+.btn-blue:hover {
+  box-shadow:0px 0px 15px 0px rgba(85, 142, 252, 0.45);
+}
+
+.btn-black:hover {
+  box-shadow:0px 0px 15px 0px rgba(0, 0, 0, 0.5);
+}
+
+.icon-margin {
+  margin-right:30px;
+}
+
+.icon-design {
+  color:#fff;
+  padding:6px 5px 0px 5px;
+  width:30px;
+  height:30px;
+  border-radius:3px;
+  transition:all 0.5s;
+}
+
+.icon-design:hover {
+  background-color:#5576fb;
+}
+
